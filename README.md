@@ -1,7 +1,7 @@
 # Presidential Pulse Checker
 election model/simulation based off of latest polls
 
-statevotes.csv - Electoral College vote data by state
+electoral_votes_by_state.csv - Electoral College vote data by state
 
 stateslist.csv - List of States for easy conversion
 
