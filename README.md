@@ -1,7 +1,7 @@
 # Presidential Pulse Checker
 election model/simulation based off of latest polls
 
-Predict_Election.R - File containing data cleaning, programming of simulation, and methodology
+predict_elections.R - File containing data cleaning, programming of simulation, and methodology
 
 electoral_votes_by_state.csv - Electoral College vote data by state
 
