@@ -11,6 +11,4 @@ region_state_match.csv - States linked to geographic regions
 
 I also use 538 polls and model data and map data using usmap package that I load directly in the .R file
 
-
-
-*coming soon:* .pdf describing methodology in detail.
+Methodology.pdf - describing methodology in detail.
