@@ -11,6 +11,8 @@
 #          - Display probabilities on a map
 #          - Simulate election using these probabilities
 #          - Plot simulation using a waffle chart
+#          - Update stored csv file daily
+#          - Plot a line graph daily tracker
 
 #-----------------------------------------------------#
 ##LOADING PACKAGES AND SETTING WD
