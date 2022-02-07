@@ -1,4 +1,4 @@
-# Presidential Pulse Checker
+# 2020 Presidential Pulse Checker
 election model/simulation based off of latest polls
 
 predict_elections.R - File containing data cleaning, programming of simulation, and methodology
