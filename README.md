@@ -1,5 +1,5 @@
 # 2020 Presidential Pulse Checker
-election model/simulation based off of latest polls
+election model/simulation based off of latest polls. Go [here](https://alexbass.me/projects/election-model/)
 
 predict_elections.R - File containing data cleaning, programming of simulation, and methodology
 
