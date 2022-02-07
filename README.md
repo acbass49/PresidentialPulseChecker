@@ -1,8 +1,6 @@
 # 2020 Presidential Pulse Checker
 
-Go [here](https://alexbass.me/projects/election-model/) for charts, write-up, and methodology.
-
-election model/simulation based off of latest polls. 
+Go [here](https://alexbass.me/projects/election-model/) for charts, write-up, and methodology. This repository is an election model/simulation based off of polls from 2020 US presidential election. 
 
 predict_elections.R - File containing data cleaning, programming of simulation, and methodology
 
