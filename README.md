@@ -1,8 +1,10 @@
 # 2020 Presidential Pulse Checker
 
-Go [here](https://alexbass.me/projects/election-model/) for charts, write-up, and methodology. This repository is an election model/simulation based off of polls from 2020 US presidential election. 
+This repository is an election model/simulation based off of polls from 2020 US presidential election. 
 
-predict_elections.R - File containing data cleaning, programming of simulation, and methodology
+Go [here](https://alexbass.me/projects/election-model/) for final dash board. Containts charts, write-up, and methodology. 
+
+predict_elections.R - File containing data cleaning, programming of simulation, and methodology. Click on it! I included detailed notes.
 
 electoral_votes_by_state.csv - Electoral College vote data by state
 
