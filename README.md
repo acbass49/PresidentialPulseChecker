@@ -2,7 +2,7 @@
 
 This repository is an election model/simulation based off of polls from 2020 US presidential election. 
 
-**Go [here](https://alexbass.me/projects/election-model/) for final dash board. Containts charts, write-up, and methodology.**
+**Go [here](https://alexbass.me/projects/election_model/) for final dash board. Containts charts, write-up, and methodology.**
 
 predict_elections.R - File containing data cleaning, programming of simulation, and methodology. Click on it! I included detailed notes.
 
